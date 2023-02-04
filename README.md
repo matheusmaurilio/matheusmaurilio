@@ -22,3 +22,5 @@
   <a href="https://www.linkedin.com/in/matheus-maurilio-46903b258/" > <img src=	"https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
    
 </div>
+
+![snake gif](https://github.com/matheusmaurilio/https://github.com/matheusmaurilio/matheusmaurilio/blob/output/github-contribution-grid-snake.svg)
